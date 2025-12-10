@@ -8,5 +8,9 @@ public class C {
 	public void Saygoodbye() {
 		System.out.println("GoodBye");
 	}
+	
+	public void Sayhello() {
+		System.out.println("Hello");
+	}
 
 }
