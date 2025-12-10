@@ -7,6 +7,9 @@ public class A {
 		C crab = new C();
 		crab.Sayhello();
 		
+		B bay = new B();
+		bay.Sayworld();
+
 	}
 
 }
